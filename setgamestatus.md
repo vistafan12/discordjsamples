@@ -22,4 +22,4 @@ client.on('message', message => {
 
 client.login('token here');
 ```
-![alt tag](http://i.imgur.com/9qsatlt.png)
+![alt tag](https://puu.sh/v5zgu/bfa16e94a3.png)
